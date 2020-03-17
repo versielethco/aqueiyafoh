@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ophieghae.homeoheal.in/sitemap.xml
